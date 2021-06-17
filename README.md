@@ -20,5 +20,6 @@ I will be uploading three python notebooks with colab link(so that you can play 
 First will be introducing pytorch with basic mnist leading to making of Deep leanring's Word2vec(CBOW) and glove word embeddings(all from scratch) and also a sentiment analyzer.
 I have already done this one and uploaded it.(Don't complain of accuracy etc.. it's based oon very small dataset just for learning purpose)
 
-I will upload two more notebooks, 1st implementing language translater using attention(implementing attention based encoder-decoder from scratch in pytorch)
-and the last one , making smart interactive chatbot "FROM ABSOLUTE SCRATCH" in pytorch. 
+I will upload few more notebooks, 1st implementing language translater using attention(implementing attention based encoder-decoder from scratch in pytorch),then one implementing Transformer from scratch and the I will try for BERT and GPTs, and the last one , making smart interactive chatbot "FROM ABSOLUTE SCRATCH" in pytorch.
+
+These all are and will be implemented from very scratch and mathematically coded
